@@ -1,4 +1,5 @@
 # win-jpeg-to-pdf
+
 Merges one JPEG image to a portable document format (PDF) file on the Windows platform with the help of [Ghostscript](http://www.ghostscript.com).
 
 ## Prerequisites
@@ -17,4 +18,4 @@ Once the `GSWIN` environment variable is set to the correct path, e.g. `"C:\Prog
 win-jpeg-to-pdf.bat Input.jpg Output.pdf
 ```
 
-[ghostscript-download-page-link]: http://www.ghostscript.com/download/gsdnld.html
+[ghostscript-download-page-link]: https://ghostscript.com/releases/gsdnld.html
